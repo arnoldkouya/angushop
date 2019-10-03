@@ -1,6 +1,7 @@
-# Angushop
+# Angushop - Shop System
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+This project is create with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3, like this :
+Backend : Laravel 5.8
 
 ## Development server
 
